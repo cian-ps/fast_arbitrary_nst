@@ -30,8 +30,8 @@ The model that is being used in this project comes from: https://kaggle.com/mode
 Use [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
-git clone <repo>
-cd <repo>
+git clone https://github.com/cian-ps/fast_arbitrary_nst.git
+cd fast_arbitrary_nst
 pip install -r requirements.txt
 ```
 
