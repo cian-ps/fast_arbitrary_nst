@@ -33,6 +33,7 @@ Use [conda](https://www.anaconda.com/docs/main) to install requirements.
 git clone https://github.com/cian-ps/fast_arbitrary_nst.git
 cd fast_arbitrary_nst
 conda create --prefix ./env --file requirements.txt
+conda activate ./env
 ```
 
 ## Usage
