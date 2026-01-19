@@ -27,12 +27,12 @@ The model that is being used in this project comes from: https://kaggle.com/mode
 
 ## Installation
 
-Use [pip](https://pip.pypa.io/en/stable/) to install requirements.
+Use [conda](https://www.anaconda.com/docs/main) to install requirements.
 
 ```bash
 git clone https://github.com/cian-ps/fast_arbitrary_nst.git
 cd fast_arbitrary_nst
-pip install -r requirements.txt
+conda create --prefix ./env --file ./requirements.txt
 ```
 
 ## Usage
